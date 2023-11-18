@@ -13,7 +13,7 @@ Then answer the questions:
 [Click here to see full notebook and insights.](https://github.com/AdrianNakonieczny/games-eda/blob/main/games.ipynb)
 
 ## Quick preview
-
+![](https://github.com/AdrianNakonieczny/games-eda/blob/main/games-eda-demo.gif)
 
 ## Used technologies
 - Python
